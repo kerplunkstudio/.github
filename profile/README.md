@@ -2,22 +2,16 @@
 
 # Kerplunk Studio
 
-**Creative technology studio building tools for developers.**
+**Video, software, and AI — everything you need to be seen, found, and chosen.**
 
-Buenos Aires, Argentina
+Patagonia, Argentina · [kerplunk.studio](https://kerplunk.studio)
 
 </div>
 
 ---
 
+We build websites, apps, and video for small businesses and artists who want to move fast without the corporate overhead.
+
 ### Open Source
 
-| Project | Description |
-|---------|-------------|
-| [**cc+**](https://github.com/kerplunkstudio/ccplus) | Desktop app for Claude Code — real-time agent observability, multi-tab sessions, built-in browser. [ccplus.run](https://ccplus.run) |
-
----
-
-<p align="center">
-  <a href="https://instagram.com/kerplunkstudio">Instagram</a> · <a href="https://ccplus.run">ccplus.run</a>
-</p>
+[**cc+**](https://github.com/kerplunkstudio/ccplus) — Desktop app for Claude Code with real-time agent observability, multi-tab sessions, usage analytics, and a built-in browser. Free and open source. → [ccplus.run](https://ccplus.run)
