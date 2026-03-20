@@ -2,7 +2,7 @@
 
 # Kerplunk Studio
 
-**Software and AI tools for people who want to move fast.**
+**Creative studio specializing in AI-powered tools and integrations.**
 
 Patagonia, Argentina · [kerplunk.studio](https://kerplunk.studio)
 
