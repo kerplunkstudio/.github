@@ -2,7 +2,7 @@
 
 # Kerplunk Studio
 
-**Video, software, and AI — everything you need to be seen, found, and chosen.**
+**Software and AI tools for people who want to move fast.**
 
 Patagonia, Argentina · [kerplunk.studio](https://kerplunk.studio)
 
@@ -10,7 +10,7 @@ Patagonia, Argentina · [kerplunk.studio](https://kerplunk.studio)
 
 ---
 
-We build websites, apps, and video for small businesses and artists who want to move fast without the corporate overhead.
+We build apps, websites, and AI integrations for small businesses and creators.
 
 ### Open Source
 
